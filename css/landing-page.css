@@ -11,11 +11,8 @@ html {
 }
 
 img {
-    -ms-transform: rotate(90deg); /* IE 9 */
-    -webkit-transform: rotate(90deg); /* Chrome, Safari, Opera */
-    transform: rotate(90deg);
+    image-orientation: rotate(90deg);
 }
-
 body,
 h1,
 h2,
