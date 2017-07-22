@@ -11,7 +11,7 @@ html {
 }
 
 img {
-    image-orientation: rotate(90deg);
+    image-orientation: from-image;
 }
 body,
 h1,
