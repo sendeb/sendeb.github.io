@@ -28,7 +28,7 @@ h6 {
   letter-spacing: .15em; /* Adjust as needed */
   animation: 
     typing 3.5s steps(30, end),
-    blink-caret .75s step-end infinite;
+    blink-caret .5s step-end infinite;
 }
 
 /* The typing effect */
