@@ -21,7 +21,7 @@ h6 {
 }
 
 .typewriter h1 {
-  overflow: hidden; /* New Edits Ensures the content is not revealed until the animation */
+  overflow: hidden; /* New Edit new Ensures the content is not revealed until the animation */
   border-right: .15em black; /* The typwriter cursor */
   white-space: nowrap; /* Keeps the content on a single line */
   margin: 0 auto; /* Gives that scrolling effect as the typing happens */
